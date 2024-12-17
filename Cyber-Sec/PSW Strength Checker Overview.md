@@ -1,5 +1,5 @@
 # Password Strength Checker
-This C project is designed to check user-inputted passwords
+This C project is designed to check user-inputted passwords to make sure they fall inline with current industry security standards.
 
 ## Goals
 1. The passwords must have a minimum length of 15 characters but not exceed 50.
