@@ -34,8 +34,8 @@ int main()
     // Define a list of common ASCII special characters that are generally accepted
     char special_characters[] = {
         '_', '.', '-', '!', '@', '*', '$', '?', '&', '%',
-        ';', '=', '^', '+', '[', ']', '~', '(', '`',
-        '|', '/', '}', '{', ')', ':', '>', '<', '"', '#', ','};
+        ';', '=', '^', '+', '[', ']', '~', '`',
+        '|', '/', '}', '{', ':', '>', '<', '"', '#', ','};
 
     // Define a list of numbers (0-9) to check if password contains at least one number
     char required_numbers[] =  {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'};
